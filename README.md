@@ -12,3 +12,6 @@
 
 # How to pass the exam?
 ![image](https://github.com/abdullahbannuwala/azure-solution-architect-305/assets/74914096/afda08a2-6b1b-4cec-a556-628efb461bfc)
+
+# Exam Content
+![image](https://github.com/abdullahbannuwala/azure-solution-architect-305/assets/74914096/429fa323-87e4-4e69-b099-291222a84c3d)
